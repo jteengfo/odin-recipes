@@ -1,5 +1,5 @@
 # odin-recipes
-HTML project without CSS and JS. It is going to be a website that contains basic cooking recipes.
+HTML project with CSS. It is going to be a website that contains basic cooking recipes.
 
 Sources: 
 1. https://www.allrecipes.com/recipe/267291/chicken-taco-lasagna
