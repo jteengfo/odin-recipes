@@ -11,3 +11,19 @@ Skills to be learned:
 
 Reflection:
 I can see how fundamental HTML is to creating a webpage. I can't deny that creating these very simple webpages has been a lot of fun. I cannot wait to learn CSS and JS to add styling and behaviours respectively. The adventure cannot wait long enough! 
+
+
+## Update February 12th 2022
+Will be updating the site with basic CSS using the external method. Will be focusing mostly on basic css properties as a practice but will have the goal of making the site still readable (hopefully better) and aesthetically better! 
+
+### Tools and Resources Used 
+#### Color Palette 
+https://colorhunt.co/palette/f9f7f7dbe2ef3f72af112d4e
+#### CSS Web Safe Fonts
+https://www.w3schools.com/cssref/css_websafe_fonts.asp
+#### CSS Link Styling 
+https://www.w3schools.com/css/css_link.asp
+
+
+Reflection:
+Applying CSS elements improved the website tremendously. I believe it is aesthetically more pleasing, while also being more readable than it was before. I had searched a color palette that can help me choose the right colors (because I don't know enough color theory!), as well as how to style links because barebones links just looks very bare. So far, I can definitely see the importance and just how essential CSS is alongside HTML. 

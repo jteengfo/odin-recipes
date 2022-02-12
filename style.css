@@ -1,0 +1,75 @@
+/* Text styling*/
+#homepage-title {
+    color: #112D4E;
+    font-size: 60px;
+    text-align: center;
+    font-family: garamond,serif;
+}
+
+#homepage-recipe {
+    color: #112D4E;
+    font-size: 42px;
+    text-align: center;
+    font-family: garamond,serif;
+}
+
+.recipe-title {
+    color: #112D4E;
+    font-size: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.recipe.subheadings {
+    color: #112D4E;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 30px;
+}
+
+.recipe.body {
+    color: #112D4E;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+/****************************************/
+body {
+    background-color: #DBE2EF;
+    text-align: center;
+}
+
+.main-image {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;    
+    width: 500px;
+    height: auto;
+
+}
+
+/*Link styling*/
+
+.links.recipe:link, .links.recipe:visited {
+    color: #F9F7F7;
+    text-decoration: none;
+    background-color: #112D4E;
+    border: 2px solid #F9F7F7;
+    padding: 10px 20px;
+    display: inline-block;
+}
+
+.links.recipe:hover, .links.recipe:active {
+    background-color: #3F72AF;
+    color: #F9F7F7;
+}
+
+.links.navbar:link, .links.navbar:visited {
+    color: #F9F7F7;
+    text-decoration: none;
+    background-color: #112D4E;
+    border: 2px solid #F9F7F7;
+    padding: 10px 20px;
+    display: inline-block;
+}
+
+.links.navbar:hover, .links.navbar:active {
+    background-color: #3F72AF;
+    color: #F9F7F7;
+}
